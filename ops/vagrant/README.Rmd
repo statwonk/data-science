@@ -1,0 +1,7 @@
+# Vagrant
+
+Vagrant is software that acts as a friendly abstraction layer on top of lower level providers like Virtualbox. It's useful for prototyping machines in a local virtual machine.
+
+## Resources
+
+- [Getting started](https://www.vagrantup.com/intro/getting-started/index.html).
